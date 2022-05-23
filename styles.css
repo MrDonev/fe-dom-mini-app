@@ -1,7 +1,25 @@
+body {
+  text-align: center;
+  background-image: url("./Images/basket.png");
+  background-repeat: no-repeat;
+  resize: both;
+  overflow: scroll;
+  background-position: center;
+}
+
 .Fruits {
   height: 125px;
   width: 125px;
   border: 5px solid;
   border-color: black;
+  border-radius: 15px;
+}
 
+#click span {
+  border: 3px solid;
+  border-radius: 3px;
+  background-color: white;
+  text-align: center;
+  margin: 5px;
+  padding: 5px;
 }
