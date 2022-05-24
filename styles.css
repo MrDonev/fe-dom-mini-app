@@ -15,11 +15,13 @@ body {
   border-radius: 15px;
 }
 
-#click span {
+#click{
+  align-content: center;
   border: 3px solid;
   border-radius: 3px;
   background-color: white;
   text-align: center;
   margin: 5px;
   padding: 5px;
+  width: 180px;
 }
